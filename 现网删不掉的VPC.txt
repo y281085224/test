@@ -1,0 +1,20 @@
+csb-lxq-test-pod5
+csb-lxq-1230-1
+CSB-lxq-xtpod1-dmz
+CSV-lxq-hc-1022
+
+CSB-lxq-DMZ-923-one-924-2
+CSB-lxq-pod8
+CSB-lxq-v4v6-pod6-1
+CSB-lxq-pod11-v4
+CSB-lxq-pod11
+CSB-lxq-v4v6-core-pod7-66
+CSB-lxq-v4-core-pod4-2
+CSB-lxq-CORE-V4-2
+CSB-lxq-v4-2
+CSB-lxq-v6
+
+CSB-lxq-dmz-68-2   外墙删不掉
+CSB-lxq-pod6  外墙删不掉
+CSB-lxq-pod8  外墙删不掉
+ 
